@@ -5,7 +5,7 @@ NIM : 312410442
 
 ## Flowchart
 
-<img src="flowchartlen.png>
+<img src="flowchartlen.png">
 
 ## Deskripsi Proyek
 Aplikasi manajemen data mahasiswa adalah program Python sederhana yang memungkinkan pengguna untuk melakukan operasi dasar pada data mahasiswa, seperti menambah, menampilkan, menghapus, dan mengubah data.
@@ -92,47 +92,47 @@ mahasiswa = []  # List untuk menyimpan data mahasiswa
 
 ### Menambahkan Data Mahasiswa
 
-<img src="pilih_menu.png>
+<img src="pilih_menu.png">
 
 ## Output
 
-<img src="output1.png>
+<img src="output1.png">
 
 Fitur ini digunakan untuk menambah data Mahasiswa berupa nama dan nilai.
 
 ### Menampilkan Data Mahasiswa
 
-<img src="pilih_menu2.png>
+<img src="pilih_menu2.png">
 
 ## Output
 
-<img src="output2.png>
+<img src="output2.png">
 
 Fitur ini digunakan untuk menampilkan Data mahasiswa yamg telah tersimpan.
 
 ### Hapus Data Mahasiswa
 
-<img src="pilih_menu3.png>
+<img src="pilih_menu3.png">
 
 ## Output
 
-<img src="output3.png>
+<img src="output3.png">
 
 Fitur ini digunakan untuk menghapus nama mahasiswa yang telah tersimpan dengan cara mengetik nama mahasiswa yang ingin dihapus.
 
 ### Ubah Data
 
-<img src="pilih_menu4.png>
+<img src="pilih_menu4.png">
 
 ## Output
 
-<img src="output4.png>
+<img src="output4.png">
 
 Fitur ini digunakan untuk mengubah nama mahasiswa yang telah tersimpan dengan cara mengetik nama mahasiswa yang ingin diubah.
 
 ### keluar
 
-<img src="pilih_menu5.png>
+<img src="pilih_menu5.png">
 
 Fitur ini digunakan untuk mengakhiri program.
 
